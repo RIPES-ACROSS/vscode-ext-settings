@@ -1,0 +1,12 @@
+{
+  "restructuredtext.confPath": "${workspaceFolder}/doc/aphinx/source",
+  "python.pythonPath": "/usr/bin/python3.8",
+  "editor.formatOnSave": false,
+  "extensions.ignoreRecommendations": false,
+  "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#5B6F3A",
+      "titleBar.activeForeground": "#ffffff",
+      "activityBar.background": "#232b16",
+      "activityBar.foreground": "#ffffff"
+  }
+}
