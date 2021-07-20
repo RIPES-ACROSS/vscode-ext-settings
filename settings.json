@@ -1,6 +1,4 @@
 {
-  "restructuredtext.confPath": "${workspaceFolder}/doc/aphinx/source",
-  "python.pythonPath": "/usr/bin/python3.8",
   "editor.formatOnSave": false,
   "extensions.ignoreRecommendations": false,
   "workbench.colorCustomizations": {
